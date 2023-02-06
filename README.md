@@ -19,3 +19,5 @@ Algorithm:
 - Keep track of people objects who are infected
   - A person who is infected can continue to infect others (keep looking at neighbors)
   - A person who is not infected cannot infect other people (path ends)
+
+[Paper: COVID 19- Investigating the impact of lockdown compliance on local case numbers] (Paper.pdf)
